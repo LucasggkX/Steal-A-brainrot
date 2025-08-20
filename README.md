@@ -1,2 +1,1 @@
-# Steal-A-brainrot
-.
+
