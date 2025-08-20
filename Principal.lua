@@ -1,1 +1,1 @@
-game.Player.LocalPlayer:Kick("Script funcionando")
+game.Players.LocalPlayer:Kick("Script funcionando")
