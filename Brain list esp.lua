@@ -1,0 +1,40 @@
+_G.godsSet = {
+    ["Cocofanto Elefanto"] = true,
+    ["Tralalero Tralala"] = true,
+    ["Tigroligre Frutonni"] = true,
+    ["Orcalero Orcala"] = true,
+    ["Tukanno Bananno"] = true,
+    ["Trippi Troppi Troppa Trippa"] = true,
+    ["Bulbito Bandito Traktorito"] = true,
+    ["Piccione Macchina"] = true,
+    ["Girafa Celestre"] = true,
+    ["Los Crocodillitos"] = true,
+    ["Odin Din Din Dun"] = true,
+    ["Tralalita Tralala"] = true,
+    ["Los Orcalitos"] = true,
+    ["Trenostruzzo Turbo 3000"] = true,
+    ["Ballerino Lololo"] = true,
+    ["Los TungTungTungCitos"] = true,
+    ["Brainrot God Lucky Block"] = true
+}
+
+_G.secretsSet = {
+    ["La Vacca Saturno Saturnita"] = true,
+    ["Chimpanzini Spiderini"] = true,
+    ["Los Tralaleritos"] = true,
+    ["Las Tralaleritas"] = true,
+    ["Graipuss Medussi"] = true,
+    ["La Grande Combinasion"] = true,
+    ["Nuclearo Dinossauro"] = true,
+    ["Garama and Madundung"] = true,
+    ["Tortuginni Dragonfruitini"] = true,
+    ["Las Vaquitas Saturnitas"] = true,
+    ["Chicleteira Bicicleteira"] = true,
+    ["Agarrini la Palini"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["Los Combinasionas"] = true,
+    ["Karkerkar Kurkur"] = true,
+    ["Los Hotspotsitos"] = true,
+    ["Esok Sekolah"] = true,
+    ["Los Matteos"] = true
+}
