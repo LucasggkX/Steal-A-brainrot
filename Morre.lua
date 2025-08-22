@@ -237,6 +237,8 @@ end)
 
 closeButton.MouseButton1Click:Connect(function()
     _G.God,_G.Secret,_G.PlayerESP,_G.BaseESP=false,false,false,false
+    _G.bestESPEnabled = false
+    _G.best3ESPEnabled = false
     for obj in pairs(ESPMap) do destroyESP(obj) end
     for _,v in pairs(BaseESPMap) do if v.gui then v.gui:Destroy() end end
     BaseESPMap = {}
