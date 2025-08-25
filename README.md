@@ -10,3 +10,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Steal-A-bra
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Steal-A-brainrot/refs/heads/main/Loader%20Cap.lua"))()
 ```
+# Web Slinger 
+```lua
+
+```
+
