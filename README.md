@@ -14,4 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Steal-A-bra
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Steal-A-brainrot/refs/heads/main/Loader%20Web.lua"))()
 ```
-
+# gui with all scripts 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Steal-A-brainrot/refs/heads/main/Loader%20Gui.lua"))()
+```
